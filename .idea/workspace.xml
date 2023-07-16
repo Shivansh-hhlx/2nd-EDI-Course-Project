@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8231415-241c-464f-b651-088e93523581" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/mainFileEDI.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/mainFileEDI.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/warn-mainFileEDI.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mainFileEDI/xref-mainFileEDI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/projectInitialGUI.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/projectInitialGUI.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/warn-projectInitialGUI.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/projectInitialGUI/xref-projectInitialGUI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/mainFileEDI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/projectInitialGUI.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SdgMAK7IuVaMtIuYQrbUfqwa0E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8231415-241c-464f-b651-088e93523581" name="Changes" comment="" />
+      <created>1689481822268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689481822268</updated>
+    </task>
+    <servers />
+  </component>
+</project>
